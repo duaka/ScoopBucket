@@ -40,3 +40,11 @@ To make a new manifest contribution, please read the [Contributing
 Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)
 and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
 wiki page.
+
+
+## Bucket
+
+1. 以官方的 Main 和 Extras 为基础, 未收录的软件加入此 bucket
+2. 官方 bucket 收录的 App 存在替代 github 下载地址的方案则加入此 bucket, 且命名为 "app-软件名称小写"
+3. 官方未收录的 App 如果需要从 github 下载, 则命名为 "app-软件名称小写-github"
+4. 命名规则前缀 "app" "font" "game" "doc" "image"
