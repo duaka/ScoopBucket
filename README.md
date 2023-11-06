@@ -52,6 +52,7 @@ wiki page.
 
 ### Font
 
+- Courier Prime
 - LXGW Neo XiHei 霞鹜新晰黑 (only github source have latest version and directly download source)
 - LXGW Neo ZhiSong 霞鹜新致宋 简
 - LXGW Wenkai 霞鹜文楷 (not WenKai GB)
