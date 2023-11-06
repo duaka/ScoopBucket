@@ -42,9 +42,19 @@ and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
 wiki page.
 
 
-## Bucket
+## Manifest
 
-1. 以官方的 Main 和 Extras 为基础, 未收录的软件加入此 bucket
-2. 官方 bucket 收录的 App 存在替代 github 下载地址的方案则加入此 bucket, 且命名为 "app-软件名称小写"
-3. 官方未收录的 App 如果需要从 github 下载, 则命名为 "app-软件名称小写-github"
-4. 命名规则前缀 "app" "font" "game" "doc" "image"
+### App
+
+- No!! MeiryoUI (useful but only github source)
+- WinMerge (from github to sf source)
+- Zeal (from github to sf source)
+
+### Font
+
+- LXGW Neo XiHei 霞鹜新晰黑 (only github source have latest version and directly download source)
+- LXGW Neo ZhiSong 霞鹜新致宋 简
+- LXGW Wenkai 霞鹜文楷 (not WenKai GB)
+- LXGW Wenkai Mono 霞鹜文楷等宽
+- Maple Mono (change download source to gitee)
+- Montserrat (github better than google fonts)
